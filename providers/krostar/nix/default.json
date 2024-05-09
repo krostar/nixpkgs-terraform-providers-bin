@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "42fe9e51340acae96f0955a12ac6bd0891c1125840bcf0958271a35612f77704",
+      "url": "https://github.com/krostar/terraform-provider-nix/releases/download/v0.0.8/terraform-provider-nix_0.0.8_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "4c478e52b631bd8e4068e67ea43e1d240d3805c0de3486e2a3d8983ad368aa0a",
+      "url": "https://github.com/krostar/terraform-provider-nix/releases/download/v0.0.8/terraform-provider-nix_0.0.8_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "a59333437d039dfd398c79b289be19ce7496823b30cd30749d9e483a2d1c5742",
+      "url": "https://github.com/krostar/terraform-provider-nix/releases/download/v0.0.8/terraform-provider-nix_0.0.8_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "655f5390dda413c9688f348fcd8b1c111a005bb191509bad61a98e7474b0f9a1",
+      "url": "https://github.com/krostar/terraform-provider-nix/releases/download/v0.0.8/terraform-provider-nix_0.0.8_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "6a7de33051731ce4da0102accb60b7ecdea4e898e3f45684824766d5db65493c",
+      "url": "https://github.com/krostar/terraform-provider-nix/releases/download/v0.0.8/terraform-provider-nix_0.0.8_linux_amd64.zip"
+    }
+  },
+  "owner": "krostar",
+  "repo": "nix",
+  "version": "0.0.8"
+}
